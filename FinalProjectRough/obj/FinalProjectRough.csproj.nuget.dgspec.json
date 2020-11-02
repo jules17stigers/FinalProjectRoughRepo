@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Joel Nail\\Documents\\MIS 333K\\FinalProjectRough\\FinalProjectRough\\FinalProjectRough.csproj": {}
+    "C:\\Users\\Joel Nail\\Documents\\MIS 333K\\GitHub Clones\\FinalProjectRoughRepo\\FinalProjectRough\\FinalProjectRough.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Joel Nail\\Documents\\MIS 333K\\FinalProjectRough\\FinalProjectRough\\FinalProjectRough.csproj": {
+    "C:\\Users\\Joel Nail\\Documents\\MIS 333K\\GitHub Clones\\FinalProjectRoughRepo\\FinalProjectRough\\FinalProjectRough.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Joel Nail\\Documents\\MIS 333K\\FinalProjectRough\\FinalProjectRough\\FinalProjectRough.csproj",
+        "projectUniqueName": "C:\\Users\\Joel Nail\\Documents\\MIS 333K\\GitHub Clones\\FinalProjectRoughRepo\\FinalProjectRough\\FinalProjectRough.csproj",
         "projectName": "FinalProjectRough",
-        "projectPath": "C:\\Users\\Joel Nail\\Documents\\MIS 333K\\FinalProjectRough\\FinalProjectRough\\FinalProjectRough.csproj",
+        "projectPath": "C:\\Users\\Joel Nail\\Documents\\MIS 333K\\GitHub Clones\\FinalProjectRoughRepo\\FinalProjectRough\\FinalProjectRough.csproj",
         "packagesPath": "C:\\Users\\Joel Nail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Joel Nail\\Documents\\MIS 333K\\FinalProjectRough\\FinalProjectRough\\obj\\",
+        "outputPath": "C:\\Users\\Joel Nail\\Documents\\MIS 333K\\GitHub Clones\\FinalProjectRoughRepo\\FinalProjectRough\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Joel Nail\\AppData\\Roaming\\NuGet\\NuGet.Config",
