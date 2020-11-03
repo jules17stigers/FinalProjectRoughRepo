@@ -1,0 +1,30 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace FinalProjectRough.Models
+{
+    public class Showing
+    {
+        // Scalar Properties
+
+        public int ShowingID { get; set; }
+        
+        public datetime ShowDay { get; set; }
+        
+        public datetime StartTime { get; set; }
+        
+        public datetime EndTime { get; set; }
+        
+        public enum Theatre { get; set; }
+        
+        public boolean IsSpecial { get; set; }
+        
+        // Navigational Properties
+
+        public Movie Movie { get; set; } 
+
+        public Ticket Ticket { get; set; }
+    }
+}
